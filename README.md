@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![mail](https://img.shields.io/badge/wutianli@tianli0.top-F2572D?style=flat-square)](mailto:wutianli@tianli0.top)
+[![mail](https://img.shields.io/badge/Email-wutianli@tianli0.top-F2572D?style=flat-square)](mailto:wutianli@tianli0.top)
 [![blog](https://img.shields.io/badge/HomePage-tianli0.top-008972?style=flat-square)](https://www.tianli0.top)
 
 
