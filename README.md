@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 [![mail](https://img.shields.io/badge/Email-wutianli@tianli0.top-F2572D?style=flat-square)](mailto:wutianli@tianli0.top)
 [![blog](https://img.shields.io/badge/HomePage-tianli0.top-008972?style=flat-square)](https://www.tianli0.top)
+[![afadian](https://img.shields.io/badge/爱发电-@Tianli0-8F6ADB?style=flat-square)](https://afdian.net/@Tianli0)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TIANLI0&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-爱发电：https://afdian.net/@Tianli0
