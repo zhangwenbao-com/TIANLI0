@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 [![major](https://img.shields.io/badge/major-O_I_S_E-3053FF?style=flat-square)](Optoelectronic_information_science_and_engineering)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TIANLI0&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tianli0&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
