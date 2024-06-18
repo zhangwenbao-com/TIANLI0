@@ -19,21 +19,21 @@
 
 在学：
 
-Golang
+- Golang
 
-C
+- C
 
-Python
+- Python
 
-物理光学
+- 物理光学
 
-数电
+- 数电
 
-信号与线性系统
+- 信号与线性系统
 
 喜欢做些小玩意儿，但是代码水平菜菜~~
 
-嗷，对了，饿饿~！
+嗷，对了，饿饿~！[爱发电](https://afdian.net/a/tianli0)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tianli0&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
