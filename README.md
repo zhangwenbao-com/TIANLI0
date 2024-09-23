@@ -21,7 +21,7 @@
 
 - Golang
 
-- C
+- html js css vue
 
 - Python
 
