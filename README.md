@@ -22,14 +22,12 @@
 - Golang
 
 - html js css vue
+  
+- Kotlin
 
 - Python
 
-- 物理光学
-
-- 数电
-
-- 信号与线性系统
+- 图像处理
 
 喜欢做些小玩意儿，但是代码水平菜菜~~
 
