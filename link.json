@@ -1,34 +1,699 @@
 [
   {
-    "type": "rec",
-    "typeName": "推荐",
-    "typeDesc": "都是大佬，推荐关注",
-    "typeList": [
-      {
-        "name": "张洪 Heo",
-        "avatar": "https://pic.efefee.cn/uploads/2024/02/26/65dc5304b211c.webp",
-        "desc": "产品设计师，独立开发者，设计与科技分享",
-        "url": "https://blog.zhheo.com/"
-      },
-      {
-        "name": "無名小栈",
-        "avatar": "https://pic.efefee.cn/uploads/2024/02/02/65bc526a940e3.png",
-        "desc": "分享技术与科技生活",
-        "url": "https://blog.imsyy.top/"
-      }
-    ]
-  },
-  {
     "type": "friends",
     "typeName": "小伙伴们",
     "typeDesc": "我们在一起，共同进步",
     "typeList": [
       {
-  "name": "Tianli",
-  "desc": "自知之明是最可贵的知识！",
-  "avatar": "https://q2.qlogo.cn/headimg_dl?dst_uin=507249007&spec=640",
-  "url": "https://tianli-blog.club/"
-    }
+        "name": "山岳库博",
+        "avatar": "https://npm.elemecdn.com/@kmar/fonts/avatar/own.jpg",
+        "desc": "开发学习启发性二刺螈",
+        "url": "https://kmar.top/"
+      },
+      {
+        "name": "Gahotx",
+        "avatar": "https://pub.gahotx.cn/photo/cat.jpg",
+        "desc": "Don’t repeat yourself",
+        "url": "https://gahotx.cn/"
+      },
+      {
+        "name": "夏末随风的小站",
+        "avatar": "https://gitee.com/Awslnotbad/picture/raw/master/img/headpic.jpg",
+        "desc": "姑苏城外一茅屋 万树梅花月满天",
+        "url": "https://awslnotbad.cn"
+      },
+      {
+        "name": "MJ&#039;s Blog",
+        "avatar": "https://cdn1.tianli0.top/gh/Justlovesmile/CDN/image/logo.jpg",
+        "desc": "醒亦念卿，梦亦念卿",
+        "url": "https://blog.justlovesmile.top"
+      },
+      {
+        "name": "小冰博客",
+        "avatar": "https://zfe.space/images/headimage.png",
+        "desc": "做个有梦想的人！",
+        "url": "https://zfe.space"
+      },
+      {
+        "name": "Heo",
+        "avatar": "https://blog.zhheo.com/img/avatar.png",
+        "desc": "爱折腾的设计师 ",
+        "url": "https://blog.zhheo.com/"
+      },
+      {
+        "name": "Eurkon",
+        "avatar": "https://blog.eurkon.com/images/user/avatar.jpg",
+        "desc": "不只是代码的搬运工",
+        "url": "https://blog.eurkon.com"
+      },
+      {
+        "name": "iMaeGoo’s Blog",
+        "avatar": "https://www.imaegoo.com/images/avatar.jpg",
+        "desc": "虹墨空间站",
+        "url": "https://www.imaegoo.com/"
+      },
+      {
+        "name": "序炁的博客",
+        "avatar": "https://www.ordchaos.com/img/avatar.jpg",
+        "desc": "A dragon that born in the Order and Chaos.",
+        "url": "https://www.ordchaos.com"
+      },
+      {
+        "name": "Eacls",
+        "avatar": "https://www.eacls.top/img/favicon.png",
+        "desc": "看一看世界的繁华",
+        "url": "https://www.eacls.top/"
+      },
+      {
+        "name": "Leonus",
+        "avatar": "https://q1.qlogo.cn/g?b=qq&amp;nk=553344777&amp;s=5",
+        "desc": "进一寸有进一寸的欢喜。",
+        "url": "https://blog.leonus.cn/"
+      },
+      {
+        "name": "梦落の小屋",
+        "avatar": "https://home.dreamfall.cn/source/img/avatar.jpg",
+        "desc": "一个以教程为主的技术类个人博客，欢迎来我的小屋作伴~",
+        "url": "https://blog.dreamfall.cn"
+      },
+      {
+        "name": "天翔TNXG的空间站",
+        "avatar": "https://api-space.tnxg.top/avatar?s=qq",
+        "desc": "明日尚未到来，希望凝于心上",
+        "url": "https://tnxg.top/"
+      },
+      {
+        "name": "MTBlack – 你我皆是黑马！",
+        "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&amp;nk=739944778&amp;s=100",
+        "desc": "给时光以岁月，给岁月以文明。",
+        "url": "https://www.lcoo.cc/"
+      },
+      {
+        "name": "LYXの小破站",
+        "avatar": "https://yisous.xyz/img/avatar.jpg",
+        "desc": "人有悲欢离合 月有阴晴圆缺",
+        "url": "https://yisous.xyz"
+      },
+      {
+        "name": "轻笑Chuckle",
+        "avatar": "https://cdn1.tianli0.top/npm/chuckle-js-css/chuckle/head.webp",
+        "desc": "宁静致远,倾尘轻笑",
+        "url": "https://www.chuckle.top"
+      },
+      {
+        "name": "肥猪qwq",
+        "avatar": "https://www.feizhuqwq.com/logourl",
+        "desc": "一定是最可爱的猪猪！",
+        "url": "https://www.feizhuqwq.com"
+      },
+      {
+        "name": "一蓑烟雨",
+        "avatar": "https://cdn1.tianli0.top/npm/easyf12-asset/img/avatar.jpg",
+        "desc": "竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生。",
+        "url": "https://www.easyf12.top/"
+      },
+      {
+        "name": "Fomalhaut🥝",
+        "avatar": "https://www.fomal.cc/assets/head.jpg",
+        "desc": "Future is now 🍭🍭🍭",
+        "url": "https://www.fomal.cc/"
+      },
+      {
+        "name": "山茶花舍",
+        "avatar": "https://file.irithys.com/src/avatar/avatar.webp",
+        "desc": "吕楪想要写一些….",
+        "url": "https://irithys.com"
+      },
+      {
+        "name": "Marcus的小窝",
+        "avatar": "https://bu.dusays.com/2022/09/15/632271409f592.png",
+        "desc": "一只有梦想的羊驼",
+        "url": "https://blog.marcus233.top/"
+      },
+      {
+        "name": "包子哟",
+        "avatar": "https://q2.qlogo.cn/headimg_dl?dst_uin=2377743797&amp;spec=100",
+        "desc": "一个练习Bug时长两年半的程序员建立的小站",
+        "url": "https://blog.bugjava.cn"
+      },
+      {
+        "name": "鹿啵包の小窝",
+        "avatar": "https://pochacco.top/img/Avatar.gif",
+        "desc": "落日橘子海，揽尽世间温柔",
+        "url": "https://pochacco.top/"
+      },
+      {
+        "name": "七鳄の学习格",
+        "avatar": "https://blog.gmcj0816.top/img/SeriousWission_TouXiangPic.jpg",
+        "desc": "如果世界多了精彩，每一位都是创造者，大家都是你的观众",
+        "url": "https://blog.gmcj0816.top/"
+      },
+      {
+        "name": "昕某人の博客",
+        "avatar": "https://bu.dusays.com/2022/08/23/6304943590776.webp",
+        "desc": "嵌入式捡垃圾专员！",
+        "url": "https://www.xinmouren.cn"
+      },
+      {
+        "name": "安知鱼",
+        "avatar": "https://img02.anzhiy.cn/adminuploads/1/2022/09/15/63232b7d91d22.jpg",
+        "desc": "生活明朗，万物可爱",
+        "url": "https://anzhiy.cn/"
+      },
+      {
+        "name": "LyShark – 孤风洗剑",
+        "avatar": "https://www.lyshark.com/images/baidu_logo.png",
+        "desc": "道，可道，非常道；名，可名，非常名。—— 老子《道德经》",
+        "url": "https://www.lyshark.com"
+      },
+      {
+        "name": "竹山一叶",
+        "avatar": "https://img.zsyyblog.com/favicon.jpg",
+        "desc": "来了就不想走的小家",
+        "url": "https://zsyyblog.com"
+      },
+      {
+        "name": "我鬼知道の博客",
+        "avatar": "https://cdn1.tianli0.top/gh/MyGodKnow/CDN/avatar.webp",
+        "desc": "If you wanna achieve you gotta believe",
+        "url": "https://www.wgzdy.top"
+      },
+      {
+        "name": "Zaskyの小窝",
+        "avatar": "https://pan.whgpc.com/view.php/2bf668a472418fedc1606842967960d7.jpg",
+        "desc": "人有悲欢离合 月有阴晴圆缺",
+        "url": "https://jcblog.cf"
+      },
+      {
+        "name": "心流",
+        "avatar": "https://blog.panghai.top/img/avatar.png",
+        "desc": "保持谨慎，保持乐观",
+        "url": "https://blog.panghai.top"
+      },
+      {
+        "name": "欢乐小王",
+        "avatar": "https://blog.happyking.top/img/avatar.webp",
+        "desc": "聚散无常,别来无恙.",
+        "url": "https://blog.happyking.top/"
+      },
+      {
+        "name": "GanSer",
+        "avatar": "https://pic.imgdb.cn/item/642e735fa682492fccc516df.png",
+        "desc": "紫箫吟断，素笺恨切",
+        "url": "https://www.gan1ser.top/"
+      },
+      {
+        "name": "小朋同学",
+        "avatar": "https://blog.vip88.email/joe/img/favicon.png",
+        "desc": "朝着诗和远方慢慢走去",
+        "url": "https://blog.vip88.email/"
+      },
+      {
+        "name": "爱吃肉的猫",
+        "avatar": "https://meuicat.com/media/favicon.png",
+        "desc": "有肉有猫有生活.",
+        "url": "https://meuicat.com/"
+      },
+      {
+        "name": "明日が来ると",
+        "avatar": "https://s.nmxc.ltd/sakurairo_vision/asuhe/avatar.jpg",
+        "desc": "信じてること自体が希望なんだ",
+        "url": "https://kiseki.blog/"
+      },
+      {
+        "name": "Shine",
+        "avatar": "https://blog.shineyu.cn/img/shineyu_avatar.webp",
+        "desc": "热爱生活点滴，分享时刻精彩。",
+        "url": "https://blog.shineyu.cn/"
+      },
+      {
+        "name": "Redish101 Blog",
+        "avatar": "https://blog.redish101.top",
+        "desc": "人文 科技 白日梦",
+        "url": "https://blog.redish101.top"
+      },
+      {
+        "name": "铭心石刻",
+        "avatar": "https://blog.kouseki.cn/imgs/avatar.webp",
+        "desc": "愿岁并谢，与友长兮",
+        "url": "https://blog.kouseki.cn/"
+      },
+      {
+        "name": "Jessica Gracewell",
+        "avatar": "https://jessicagracewell.top/img/79774060.jpg",
+        "desc": "是一名 学生、独立开发者、博主",
+        "url": "https://jessicagracewell.top"
+      },
+      {
+        "name": "Lemon&#039;s Blog",
+        "avatar": "https://jsd.onmicrosoft.cn/gh/ning0818/cdn-files@blogcdn/logo.webp",
+        "desc": "人见人爱，花见花开，车见车爆胎",
+        "url": "https://ning0818.top"
+      },
+      {
+        "name": "Pzai",
+        "avatar": "https://blog.pzai.cloud/img/avatar.png",
+        "desc": "从入门到放弃",
+        "url": "https://blog.pzai.cloud/"
+      },
+      {
+        "name": "Fgaoxing",
+        "avatar": "https://unpkg.com/ytblogimg/webp/logo.webp",
+        "desc": "Fgaoxing",
+        "url": "https://www.yt-blog.top/"
+      },
+      {
+        "name": "毕少侠",
+        "avatar": "https://hexo.geekswg.top/imgs/avatar.webp",
+        "desc": "毕少侠也在江湖",
+        "url": "https://hexo.geekswg.top/"
+      },
+      {
+        "name": "樱花小镇",
+        "avatar": "https://www.sakura.vin/favicon.ico",
+        "desc": "小园新种红樱树，闲绕花枝便当游。",
+        "url": "https://blog.sakura.vin"
+      },
+      {
+        "name": "Strit.",
+        "avatar": "https://q2.qlogo.cn/headimg_dl?dst_uin=3345891696&amp;spec=100",
+        "desc": "丝提的小站",
+        "url": "https://strit.tianli0.top/"
+      },
+      {
+        "name": "九弦之屋",
+        "avatar": "https://blog.sinzmise.top/img/avatar.png",
+        "desc": "随着风和光来的旅行者，欢迎来到九弦之屋",
+        "url": "https://blog.sinzmise.top/"
+      },
+      {
+        "name": "天子笑",
+        "avatar": "https://cdn.chuqis.com/gh/tzxawa/blog-source@main/img/avatar.webp",
+        "desc": "https://tzxawa.eu.org/",
+        "url": "https://tzxawa.eu.org/"
+      },
+      {
+        "name": "TheIce",
+        "avatar": "https://files.superbed.cn/store/superbed/45/ca/63957624b1fccdcd363145ca.png",
+        "desc": "水穷云起处",
+        "url": "https://blog.081113.xyz/"
+      },
+      {
+        "name": "半方池水半方田",
+        "avatar": "https://cdn.gallery.uuanqin.top/img/avatar.webp",
+        "desc": "只能懂一点点",
+        "url": "https://uuanqin.top/"
+      },
+      {
+        "name": "青猫的糖果屋",
+        "avatar": "https://s1.ax1x.com/2023/08/23/pPJ7o5t.png",
+        "desc": "我的满腔热情好像耗尽了",
+        "url": "https://www.shang.ac.cn"
+      },
+      {
+        "name": "梦溯·镜影",
+        "avatar": "https://jsdelivrcdn.suswhw.top/npm/q78kg-website-npm-cdn/avatar.png",
+        "desc": "梦溯·镜影",
+        "url": "https://anjiurine.top/"
+      },
+      {
+        "name": "南方嘉木",
+        "avatar": "https://gavin-chen.top/img/avatar.webp",
+        "desc": "不畏将来，不念过往。",
+        "url": "https://gavin-chen.top"
+      },
+      {
+        "name": "寒烟志",
+        "avatar": "https://www.qiaoxiao.top/static/avater/avater.jpg",
+        "desc": "半山腰总是挤的，你得去山顶看看",
+        "url": "https://yanyuplus.cn/"
+      },
+      {
+        "name": "闪闪の小窝",
+        "avatar": "https://moechun.fun/img/avatar/hanajiang-2.png",
+        "desc": "来玩！玩累了…就睡觉！没问题的！",
+        "url": "https://moechun.fun/"
+      },
+      {
+        "name": "365云栈",
+        "avatar": "https://blog.hicosor.top/favicon.ico",
+        "desc": "从未敢想自己能走到何处，只是一直在走罢了",
+        "url": "https://blog.hicosor.top"
+      },
+      {
+        "name": "climbingmouse",
+        "avatar": "https://blog-vanh.oss-cn-hangzhou.aliyuncs.com/image/avatar.jpg",
+        "desc": "纵有疾风起，人生不言弃",
+        "url": "https://blog.climbingmouse.top/"
+      },
+      {
+        "name": "星の野",
+        "avatar": "https://bu.dusays.com/2023/10/01/6519291503349.jpg",
+        "desc": "我自是年少，韶华倾负。",
+        "url": "https://byer.top"
+      },
+      {
+        "name": "xiaoger",
+        "avatar": "https://image.xiaoger.top/xiaoger/config/xiaoger.jpg",
+        "desc": "个人学习和分享壁纸的博客",
+        "url": "https://xiaoger.top"
+      },
+      {
+        "name": "呆鱼",
+        "avatar": "https://daiyu.fun/img/avatar.png",
+        "desc": "Hello World！",
+        "url": "https://daiyu.fun/"
+      },
+      {
+        "name": "qxdn",
+        "avatar": "https://qianxu.run/images/avatar.jpg",
+        "desc": "蓬生麻中，不扶自直",
+        "url": "https://qianxu.run"
+      },
+      {
+        "name": "虹色轨迹🌠",
+        "avatar": "https://illlli.com/assets/avatar.webp",
+        "desc": "做一颗星星，有棱有角，黑暗中闪闪发光🍭🍭🍭",
+        "url": "https://illlli.com"
+      },
+      {
+        "name": "虹色轨迹🌠",
+        "avatar": "https://dil.illlli.com/assets/avatar.webp",
+        "desc": "做一颗星星，有棱有角，黑暗中闪闪发光🍭🍭🍭",
+        "url": "https://dil.illlli.com"
+      },
+      {
+        "name": "NullPointerException",
+        "avatar": "https://omn.cc/logo.png",
+        "desc": "唯爱与科技不可辜负",
+        "url": "https://omn.cc/"
+      },
+      {
+        "name": "微笑博客",
+        "avatar": "https://picdl.sunbangyan.cn/2023/12/01/8a2a3447d4fab9f5c118ca520c1b5265.jpeg",
+        "desc": "知天易，易天难",
+        "url": "https://wxjxw.cn"
+      },
+      {
+        "name": "苏苏の休憩小屋",
+        "avatar": "https://bu.dusays.com/2023/10/10/6524e2dc0735a.jpg",
+        "desc": "归途依旧可爱",
+        "url": "https://luckysusu.top/"
+      },
+      {
+        "name": "时空之歌",
+        "avatar": "https://pic.imgdb.cn/item/63e512384757feff33d9afcf.jpg",
+        "desc": "我们都是阴沟里的虫子，但总还是得有人仰望星空。",
+        "url": "https://space520.eu.org/"
+      },
+      {
+        "name": "Naokuo",
+        "avatar": "https://cdn.cbd.int/naokuo-blog@1.2.0/img/avatar-512x512.png",
+        "desc": "请给我来一碗三鲜面",
+        "url": "https://www.naokuo.top"
+      },
+      {
+        "name": "小李同学 Coding",
+        "avatar": "https://cdn.jsdelivr.net/gh/LJJbyZJU/pic_bed/img/badge/boji.jpg",
+        "desc": "一支努力变强的小彩笔",
+        "url": "https://blog.xxfer.cn/"
+      },
+      {
+        "name": "六月是只猫",
+        "avatar": "https://www.lyszm.com/img/avatar.jpg",
+        "desc": "生活，一半家长里短，一半山川湖海…",
+        "url": "https://www.lyszm.com"
+      },
+      {
+        "name": "Kegongteng",
+        "avatar": "https://bu.dusays.com/2023/12/23/65867c3357bb6.jpg",
+        "desc": "Blogger / Technophile / Student",
+        "url": "https://kegongteng.top/"
+      },
+      {
+        "name": "Kuka",
+        "avatar": "https://pic.imgdb.cn/item/65b0c0e2871b83018afb438b.jpg",
+        "desc": "莫听穿林打叶声，何妨吟啸且徐行",
+        "url": "https://www.xwsclub.top/"
+      },
+      {
+        "name": "君莫愁",
+        "avatar": "https://unpkg.com/shimail-img@1.0.3/avatar.jpg",
+        "desc": "莫愁前路无知己，天下谁人不识君",
+        "url": "https://blog.shimail.cn"
+      },
+      {
+        "name": "王卓Sco",
+        "avatar": "https://bu.dusays.com/2023/12/19/658179febbfb5.png",
+        "desc": "抬头有清晰的眼光，低头有坚定的脚步。",
+        "url": "https://blog.wzsco.cn"
+      },
+      {
+        "name": "Kegongteng",
+        "avatar": "https://bu.dusays.com/2023/12/23/65867c3357bb6.jpg",
+        "desc": "Blogger / Technophile / Student",
+        "url": "https://kegongteng.cn/"
+      },
+      {
+        "name": "旅者Bin",
+        "avatar": "https://blog.101jc.com/upload/touxiang1.png",
+        "desc": "探索 | 实践 | 记录 | 分享",
+        "url": "https://101jc.com/"
+      },
+      {
+        "name": "❖星港◎Star☆",
+        "avatar": "https://bu.dusays.com/2023/09/27/6513053bebdb2.webp",
+        "desc": "以博客记录生活与热爱！",
+        "url": "https://blog.starsharbor.com"
+      },
+      {
+        "name": "哇塞码农",
+        "avatar": "https://static.wscoder.com/avatar.png",
+        "desc": "分享程序员的精彩世界！",
+        "url": "https://wscoder.com/"
+      },
+      {
+        "name": "清羽飞扬",
+        "avatar": "https://blog.qyliu.top/info/avatar.ico",
+        "desc": "柳影曳曳，清酒孤灯，扬笔撒墨，心境如霜",
+        "url": "https://blog.qyliu.top/"
+      },
+      {
+        "name": "June\\&#039;s Blog",
+        "avatar": "https://gitlab.com/June_PJ/PicGo-PJ/raw/main/img/2024/01/16/avatar.jpg",
+        "desc": "遇事不决，可问春风",
+        "url": "https://blog.june-pj.cn/"
+      },
+      {
+        "name": "葱苓sama",
+        "avatar": "https://img01.anheyu.com/useruploads/222/2023/10/16/652cbfc482491.jpg",
+        "desc": "Don\\'t worry, be happy.",
+        "url": "https://blog.ciraos.top"
+      },
+      {
+        "name": "小破站",
+        "avatar": "https://abc.syml.online/webAvatar/%E5%A4%B4%E5%83%8F.jpg",
+        "desc": "蓬生麻中，不扶自直",
+        "url": "https://syml.online"
+      },
+      {
+        "name": "luo",
+        "avatar": "https://www.bokelhc.cn/wp-content/uploads/2024/03/cropped-1711375413-cropped-1710753631-cropped-1709114859-151193290_0_final.png",
+        "desc": "给生命以时光，给文华以岁月",
+        "url": "http://www.bokelhc.cn"
+      },
+      {
+        "name": "PeterJXL",
+        "avatar": "https://image.peterjxl.com/blog/re0.jpg",
+        "desc": "那就从零开始",
+        "url": "https://www.peterjxl.com/"
+      },
+      {
+        "name": "你所不知道的物語；",
+        "avatar": "https://www.hitagi.icu/img/avatar.jpg",
+        "desc": "要是能流行起來就好了",
+        "url": "https://hitagi.icu"
+      },
+      {
+        "name": "MRZHU的小站",
+        "avatar": "https://www.sifangbazhu.tech/upload/芸如.jpg",
+        "desc": "向着计算物理出发吧！",
+        "url": "https://www.sifangbazhu.tech"
+      },
+      {
+        "name": "Yves",
+        "avatar": "https://photo.maoyiwei.com/i/2024/06/17/666fba5b6d41d.jpeg",
+        "desc": "Welcome!",
+        "url": "https://blog.maoyiwei.com/"
+      },
+      {
+        "name": "Yves",
+        "avatar": "https://photo.maoyiwei.com/i/2024/06/19/6672b8a4b4307.jpeg",
+        "desc": "Welcome!",
+        "url": "https://blog.maoyiwei.com/"
+      },
+      {
+        "name": "浅小兮的梦",
+        "avatar": "https://sunrixet.github.io/img/avatar.jpg",
+        "desc": "从相遇的刹那开始就注定了别离！",
+        "url": "https://zxwlove.xyz/"
+      },
+      {
+        "name": "SerMsCoding",
+        "avatar": "https://bu.dusays.com/2023/10/11/65269ea6226c8.png",
+        "desc": "细节成就极致，逻辑成就完美",
+        "url": "https://blog.serms.top"
+      },
+      {
+        "name": "dreamChaser的小屋🏡",
+        "avatar": "https://public-no-limit.oss-cn-beijing.aliyuncs.com/blog-public-resources/iCopy_2024_05_03_13_34_54.png",
+        "desc": "纸上得来终觉浅,绝知此事要躬行.",
+        "url": "https://blog.wenjing.xin/"
+      },
+      {
+        "name": "Ariasakaの小窝",
+        "avatar": "https://bu.dusays.com/2023/06/30/649e9ec88cf47.png",
+        "desc": "人有悲欢离合 月有阴晴圆缺",
+        "url": "https://blog.yaria.top"
+      },
+      {
+        "name": "MRZHU的小站",
+        "avatar": "https://www.sifangbazhu.tech/upload/芸如.jpg",
+        "desc": "向着计算物理出发吧！",
+        "url": "https://www.sifangbazhu.tech"
+      },
+      {
+        "name": "Taosu`Home",
+        "avatar": "https://cdn.jsdelivr.net/gh/taosu0216/picgo/20230821231539.png",
+        "desc": "Daily Growing",
+        "url": "https://yblue.top"
+      },
+      {
+        "name": "MRZHU的小站",
+        "avatar": "https://www.sifangbazhu.tech/upload/芸如.jpg",
+        "desc": "向着计算物理出发吧！",
+        "url": "https://www.sifangbazhu.tech"
+      },
+      {
+        "name": "梦想之都",
+        "avatar": "https://jsd.dreamerhe.cn/gh/dreamerhe114514/baimgapi@main/image/tx.png",
+        "desc": "朝着梦想前进",
+        "url": "https://hexo.dreamerhe.cn/"
+      },
+      {
+        "name": "咖啡豆子coffee的小站",
+        "avatar": "https://kfdzcoffee.cn/upload/mmexport1715001096100.png",
+        "desc": "所有奇迹的始发点",
+        "url": "https://kfdzcoffee.cn"
+      },
+      {
+        "name": "黄昏之时",
+        "avatar": "https://blog.mitsuha.org/img/background/avatar.jpg",
+        "desc": "世界轮廓变得模糊，可以看见非人之物",
+        "url": "https://blog.mitsuha.org/"
+      },
+      {
+        "name": "高峰君主の个人博客",
+        "avatar": "https://www.gfjzz.top/upload/%E5%8D%9A%E5%AE%A2%E7%AB%99%E7%9A%84LOGO-%E5%9C%86.png",
+        "desc": "分享技术与生活",
+        "url": "https://www.gfjzz.top/"
+      },
+      {
+        "name": "365云栈",
+        "avatar": "https://blog.365sites.top/upload/avatar.png",
+        "desc": "初阅不明言外意，重温方觉字中情",
+        "url": "https://blog.365sites.top"
+      },
+      {
+        "name": "晚夜的个人博客",
+        "avatar": "https://q2.qlogo.cn/headimg_dl?dst_uin=1463656527&spec=640",
+        "desc": "做好量变的准备，促进事物的质变。",
+        "url": "https://www.iczrx.cn"
+      },
+      {
+        "name": "Elykia\\&#039;s Blog",
+        "avatar": "https://img.elykia.cn/2024/08/4.gif",
+        "desc": "致以无暇之人",
+        "url": "https://blog.elykia.cn/"
+      },
+      {
+        "name": "洛卡日记",
+        "avatar": "https://bu.dusays.com/2024/08/18/66c1b1239a312.png",
+        "desc": "个人阅读笔记与日常生活留存地",
+        "url": "https://luoca.cn"
+      },
+      {
+        "name": "Admibrill",
+        "avatar": "https://source-admibrill.pages.dev/file/f69c9c86b22cb90df18a1.png",
+        "desc": "Where there is a will,there is a way.",
+        "url": "https://admibrill1.pages.dev"
+      },
+      {
+        "name": "Elykia\\&#039;s Blog",
+        "avatar": "https://img.elykia.cn/2024/E_0.gif",
+        "desc": "致以无暇之人",
+        "url": "https://blog.elykia.cn/"
+      },
+      {
+        "name": "LinuxWin",
+        "avatar": "https://gcore.jsdelivr.net/gh/LinuxWin232/cdn@main/logo.png",
+        "desc": "青，取之于蓝，而青于蓝",
+        "url": "https://meoblog.pages.dev/"
+      },
+      {
+        "name": "洛卡日记",
+        "avatar": "https://bu.dusays.com/2024/08/18/66c1b1239a312.png",
+        "desc": "喵呜的个人生活留存地",
+        "url": "https://luoca.cn"
+      },
+      {
+        "name": "南方嘉木",
+        "avatar": "https://blog.cancin.cn/img/avatar.webp",
+        "desc": "不畏将来，不念过往。",
+        "url": "https://blog.cancin.cn"
+      },
+      {
+        "name": "ZHI-BLOG",
+        "avatar": "https://blog.zhwei101.com/favicon.ico",
+        "desc": "一个牛逼的",
+        "url": "https://blog.zhwei101.com/"
+      },
+      {
+        "name": "Imz\\&#039;s Blog",
+        "avatar": "https://pic.imgdb.cn/item/66eed947f21886ccc089a02b.png",
+        "desc": "仰望星空，脚踏实地。",
+        "url": "https://blog.imz.me"
+      },
+      {
+        "name": "咖啡豆子coffee的小站",
+        "avatar": "https://image.kfdzcoffee.cn/i/1/avatar.png",
+        "desc": "所有奇迹的始发点",
+        "url": "https://blog.kfdzcoffee.cn"
+      },
+      {
+        "name": "webjing",
+        "avatar": "https://blog.webjing.cn/upload/icon/personal-mac-touxiang.jpeg",
+        "desc": "追风赶月莫停留，平芜尽处是春山",
+        "url": "https://blog.webjing.cn"
+      },
+      {
+        "name": "Admibrill",
+        "avatar": "https://source-admibrill.pages.dev/file/f69c9c86b22cb90df18a1.png",
+        "desc": "Where there is a will,there is a way.",
+        "url": "https://blog.qyadbr.top"
+      },
+      {
+        "name": "萌王之乡🦄🪽",
+        "avatar": "https://002026.xyz/img/avator.webp",
+        "desc": "当你凝视萝莉时，萝莉也在凝视你",
+        "url": "https://002026.xyz/"
+      },
+      {
+        "name": "webjing",
+        "avatar": "https://blog.webjing.cn/upload/circle-avatar-black.png",
+        "desc": "https://blog.webjing.cn",
+        "url": "https://blog.webjing.cn"
+      }
     ]
   }
 ]
