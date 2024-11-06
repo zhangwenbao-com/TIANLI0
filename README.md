@@ -17,19 +17,6 @@
 
 精通baidu编程，Google编程，面向ChatGPT编程
 
-在学：
-
-- Golang
-
-- html js css vue
-  
-- Kotlin
-
-- Python
-
-- 图像处理
-
-喜欢做些小玩意儿，但是代码水平菜菜~~
 
 嗷，对了，饿饿~！[爱发电](https://afdian.net/a/tianli0)
 
