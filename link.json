@@ -1,8 +1,8 @@
 [
   {
     "type": "friends",
-    "typeName": "小伙伴们",
-    "typeDesc": "我们在一起，共同进步",
+    "typeName": "重要的朋友们",
+    "typeDesc": "都是些熟悉的朋友~",
     "typeList": [
       {
         "name": "山岳库博",
@@ -17,12 +17,6 @@
         "url": "https://gahotx.cn/"
       },
       {
-        "name": "MJ's Blog",
-        "avatar": "https://cdn1.tianli0.top/gh/Justlovesmile/CDN/image/logo.jpg",
-        "desc": "醒亦念卿，梦亦念卿",
-        "url": "https://blog.justlovesmile.top"
-      },
-      {
         "name": "小冰博客",
         "avatar": "https://zfe.space/images/headimage.png",
         "desc": "做个有梦想的人！",
@@ -35,28 +29,10 @@
         "url": "https://blog.zhheo.com/"
       },
       {
-        "name": "Eurkon",
-        "avatar": "https://blog.eurkon.com/images/user/avatar.jpg",
-        "desc": "不只是代码的搬运工",
-        "url": "https://blog.eurkon.com"
-      },
-      {
         "name": "iMaeGoo’s Blog",
         "avatar": "https://www.imaegoo.com/images/avatar.jpg",
         "desc": "虹墨空间站",
         "url": "https://www.imaegoo.com/"
-      },
-      {
-        "name": "序炁的博客",
-        "avatar": "https://www.ordchaos.com/img/avatar.jpg",
-        "desc": "A dragon that born in the Order and Chaos.",
-        "url": "https://www.ordchaos.com"
-      },
-      {
-        "name": "Eacls",
-        "avatar": "https://www.eacls.top/img/favicon.png",
-        "desc": "看一看世界的繁华",
-        "url": "https://www.eacls.top/"
       },
       {
         "name": "Leonus",
@@ -77,17 +53,117 @@
         "url": "https://tnxg.top/"
       },
       {
-        "name": "MTBlack – 你我皆是黑马！",
-        "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&amp;nk=739944778&amp;s=100",
-        "desc": "给时光以岁月，给岁月以文明。",
-        "url": "https://www.lcoo.cc/"
-      },
-      {
         "name": "轻笑Chuckle",
         "avatar": "https://cdn1.tianli0.top/npm/chuckle-js-css/chuckle/head.webp",
         "desc": "宁静致远,倾尘轻笑",
         "url": "https://www.qcqx.top"
       },
+      {
+        "name": "安知鱼",
+        "avatar": "https://img02.anzhiy.cn/adminuploads/1/2022/09/15/63232b7d91d22.jpg",
+        "desc": "生活明朗，万物可爱",
+        "url": "https://anzhiy.cn/"
+      },
+      {
+        "name": "Ariasakaの小窝",
+        "avatar": "https://bu.dusays.com/2023/06/30/649e9ec88cf47.png",
+        "desc": "人有悲欢离合 月有阴晴圆缺",
+        "url": "https://blog.yaria.top"
+      },
+      {
+        "name": "清羽飞扬",
+        "avatar": "https://blog.qyliu.top/info/avatar.ico",
+        "desc": "柳影曳曳，清酒孤灯，扬笔撒墨，心境如霜",
+        "url": "https://blog.qyliu.top/"
+      },
+      {
+        "name": "June's Blog",
+        "avatar": "https://gitlab.com/June_PJ/PicGo-PJ/raw/main/img/2024/01/16/avatar.jpg",
+        "desc": "遇事不决，可问春风",
+        "url": "https://blog.june-pj.cn/"
+      },
+      {
+        "name": "葱苓sama",
+        "avatar": "https://img01.anheyu.com/useruploads/222/2023/10/16/652cbfc482491.jpg",
+        "desc": "Don\\'t worry, be happy.",
+        "url": "https://blog.ciraos.top"
+      },
+      {
+        "name": "南方嘉木",
+        "avatar": "https://blog.cancin.cn/img/avatar.webp",
+        "desc": "不畏将来，不念过往。",
+        "url": "https://blog.cancin.cn"
+      },
+      {
+        "name": "明日が来ると",
+        "avatar": "https://s.nmxc.ltd/sakurairo_vision/asuhe/avatar.jpg",
+        "desc": "信じてること自体が希望なんだ",
+        "url": "https://kiseki.blog/"
+      },
+      {
+        "name": "Redish101 Blog",
+        "avatar": "https://blog.redish101.top",
+        "desc": "人文 科技 白日梦",
+        "url": "https://blog.redish101.top"
+      },
+      {
+        "name": "铭心石刻",
+        "avatar": "https://blog.kouseki.cn/imgs/avatar.webp",
+        "desc": "愿岁并谢，与友长兮",
+        "url": "https://blog.kouseki.cn/"
+      },
+      {
+        "name": "微霞",
+        "avatar": "https://cdn.yuuu.org/img/avatar.webp",
+        "desc": "水风清，晚霞明",
+        "url": "https://yuuu.org"
+      },
+      {
+        "name": "Akilarの糖果屋",
+        "avatar": "https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg",
+        "desc": "欢迎光临糖果屋",
+        "url": "https://akilar.top/"
+      }
+    ]
+  },
+  {
+    "type": "friends",
+    "typeName": "小伙伴们",
+    "typeDesc": "我们在一起，共同进步",
+    "typeList": [
+      {
+        "name": "MJ's Blog",
+        "avatar": "https://cdn1.tianli0.top/gh/Justlovesmile/CDN/image/logo.jpg",
+        "desc": "醒亦念卿，梦亦念卿",
+        "url": "https://blog.justlovesmile.top"
+      },
+      {
+        "name": "Eurkon",
+        "avatar": "https://blog.eurkon.com/images/user/avatar.jpg",
+        "desc": "不只是代码的搬运工",
+        "url": "https://blog.eurkon.com"
+      },
+
+      {
+        "name": "序炁的博客",
+        "avatar": "https://www.ordchaos.com/img/avatar.jpg",
+        "desc": "A dragon that born in the Order and Chaos.",
+        "url": "https://www.ordchaos.com"
+      },
+      {
+        "name": "Eacls",
+        "avatar": "https://www.eacls.top/img/favicon.png",
+        "desc": "看一看世界的繁华",
+        "url": "https://www.eacls.top/"
+      },
+
+      {
+        "name": "MTBlack – 你我皆是黑马！",
+        "avatar": "https://thirdqq.qlogo.cn/g?b=sdk&amp;nk=739944778&amp;s=100",
+        "desc": "给时光以岁月，给岁月以文明。",
+        "url": "https://www.lcoo.cc/"
+      },
+
       {
         "name": "肥猪qwq",
         "avatar": "https://www.feizhuqwq.com/logourl",
@@ -124,12 +200,7 @@
         "desc": "落日橘子海，揽尽世间温柔",
         "url": "https://pochacco.top/"
       },
-      {
-        "name": "安知鱼",
-        "avatar": "https://img02.anzhiy.cn/adminuploads/1/2022/09/15/63232b7d91d22.jpg",
-        "desc": "生活明朗，万物可爱",
-        "url": "https://anzhiy.cn/"
-      },
+
       {
         "name": "LyShark – 孤风洗剑",
         "avatar": "https://www.lyshark.com/images/baidu_logo.png",
@@ -166,24 +237,7 @@
         "desc": "有肉有猫有生活.",
         "url": "https://meuicat.com/"
       },
-      {
-        "name": "明日が来ると",
-        "avatar": "https://s.nmxc.ltd/sakurairo_vision/asuhe/avatar.jpg",
-        "desc": "信じてること自体が希望なんだ",
-        "url": "https://kiseki.blog/"
-      },
-      {
-        "name": "Redish101 Blog",
-        "avatar": "https://blog.redish101.top",
-        "desc": "人文 科技 白日梦",
-        "url": "https://blog.redish101.top"
-      },
-      {
-        "name": "铭心石刻",
-        "avatar": "https://blog.kouseki.cn/imgs/avatar.webp",
-        "desc": "愿岁并谢，与友长兮",
-        "url": "https://blog.kouseki.cn/"
-      },
+
       {
         "name": "Jessica Gracewell",
         "avatar": "https://jessicagracewell.top/img/79774060.jpg",
@@ -371,24 +425,7 @@
         "desc": "分享程序员的精彩世界！",
         "url": "https://wscoder.com/"
       },
-      {
-        "name": "清羽飞扬",
-        "avatar": "https://blog.qyliu.top/info/avatar.ico",
-        "desc": "柳影曳曳，清酒孤灯，扬笔撒墨，心境如霜",
-        "url": "https://blog.qyliu.top/"
-      },
-      {
-        "name": "June's Blog",
-        "avatar": "https://gitlab.com/June_PJ/PicGo-PJ/raw/main/img/2024/01/16/avatar.jpg",
-        "desc": "遇事不决，可问春风",
-        "url": "https://blog.june-pj.cn/"
-      },
-      {
-        "name": "葱苓sama",
-        "avatar": "https://img01.anheyu.com/useruploads/222/2023/10/16/652cbfc482491.jpg",
-        "desc": "Don\\'t worry, be happy.",
-        "url": "https://blog.ciraos.top"
-      },
+
       {
         "name": "小破站",
         "avatar": "https://abc.syml.online/webAvatar/%E5%A4%B4%E5%83%8F.jpg",
@@ -431,24 +468,14 @@
         "desc": "纸上得来终觉浅,绝知此事要躬行.",
         "url": "https://blog.wenjing.xin/"
       },
-      {
-        "name": "Ariasakaの小窝",
-        "avatar": "https://bu.dusays.com/2023/06/30/649e9ec88cf47.png",
-        "desc": "人有悲欢离合 月有阴晴圆缺",
-        "url": "https://blog.yaria.top"
-      },
+
       {
         "name": "MRZHU的小站",
         "avatar": "https://www.sifangbazhu.tech/upload/芸如.jpg",
         "desc": "向着计算物理出发吧！",
         "url": "https://www.sifangbazhu.tech"
       },
-      {
-        "name": "Taosu`Home",
-        "avatar": "https://cdn.jsdelivr.net/gh/taosu0216/picgo/20230821231539.png",
-        "desc": "Daily Growing",
-        "url": "https://yblue.top"
-      },
+
       {
         "name": "MRZHU的小站",
         "avatar": "https://www.sifangbazhu.tech/upload/芸如.jpg",
@@ -521,12 +548,7 @@
         "desc": "喵呜的个人生活留存地",
         "url": "https://luoca.cn"
       },
-      {
-        "name": "南方嘉木",
-        "avatar": "https://blog.cancin.cn/img/avatar.webp",
-        "desc": "不畏将来，不念过往。",
-        "url": "https://blog.cancin.cn"
-      },
+
       {
         "name": "ZHI-BLOG",
         "avatar": "https://blog.zhwei101.com/favicon.ico",
