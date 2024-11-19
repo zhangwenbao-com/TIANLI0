@@ -1,0 +1,25 @@
+name: Validate link.json
+
+on:
+  pull_request:
+    paths:
+      - 'link.json'
+
+jobs:
+  validate-json:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '20'
+
+    - name: Install jsonlint
+      run: npm install -g jsonlint
+
+    - name: Validate link.json
+      run: jsonlint link.json
