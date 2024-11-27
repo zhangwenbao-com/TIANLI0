@@ -17,8 +17,16 @@
 
 精通baidu编程，Google编程，面向ChatGPT编程
 
+可能是个后端？后端一般用的`golang`:`gin`，前端在学`vue`还很菜啦！，深度学习目前在学`pytorch` `yolo` ~ 
 
-嗷，对了，饿饿~！[爱发电](https://afdian.net/a/tianli0)
+嗷，对了，饿饿~！要是你要支持窝，不妨看看咱的付费项目！
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tianli0&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+Hello there! 😊 Welcome to my corner of the internet. My name is Tianli, and I'm glad you've stopped by.
 
+### Quick Facts
+- **Personality Type:** Connoisseur (ISTP-T)
+- **Current Status:** An undergraduate student in Optoelectronic Information Science and Engineering, currently embracing a laid-back lifestyle.
+
+I have a passion for technology and continuously seek to learn more about it. If you're interested in what I do or just want to chat, feel free to reach out through any of the links above.
+
+Looking forward to connecting with you!
