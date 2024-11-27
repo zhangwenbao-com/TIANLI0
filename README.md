@@ -1,4 +1,6 @@
-## This is Tianli
+# This is Tianli
+
+##zh-CN
 
 [![mail](https://img.shields.io/badge/Email-wutianli@tianli0.top-F2572D?style=flat-square)](mailto:wutianli@tianli0.top)
 [![blog](https://img.shields.io/badge/HomePage-tianli0.top-008972?style=flat-square)](https://www.tianli0.top)
@@ -20,6 +22,8 @@
 可能是个后端？后端一般用的`golang`:`gin`，前端在学`vue`还很菜啦！，深度学习目前在学`pytorch` `yolo` ~ 
 
 嗷，对了，饿饿~！要是你要支持窝，不妨看看咱的付费项目！
+
+## en
 
 Hello there! 😊 Welcome to my corner of the internet. My name is Tianli, and I'm glad you've stopped by.
 
